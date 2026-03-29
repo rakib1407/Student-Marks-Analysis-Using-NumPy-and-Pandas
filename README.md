@@ -26,6 +26,7 @@ Key Objectives
         ◦ Study relationships between different subjects to understand performance patterns. 
 
 Tools and Libraries
+
     • Python – Programming language 
     • NumPy – For numerical operations and calculations 
     • Pandas – For data manipulation, aggregation, and analysis
