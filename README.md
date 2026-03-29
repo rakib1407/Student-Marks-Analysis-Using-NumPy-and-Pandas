@@ -7,6 +7,7 @@ Project Description
 This project analyzes the academic performance of students using a dataset that includes marks in Math, Reading, and Writing. The main objective is to extract meaningful insights from the dataset, identify trends, and evaluate student performance using Python libraries NumPy and Pandas.
 
 Key Objectives
+
     1. Calculate Total and Average Marks 
         ◦ Sum up marks across all subjects for each student. 
         ◦ Calculate the average marks for overall performance evaluation. 
